@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://diwali-countdown-lyraxstudio.vercel.app/sitemap.xml
